@@ -1,15 +1,6 @@
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/) — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning SQL hands-on
-- 💼 Preparing for interviews in retail, e-commerce, or product analytics
-
-# **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2) to implement the full project from scratch:**  
-[![SQL Data Analyst Portfolio Project using Zepto Inventory Dataset](https://github.com/user-attachments/assets/a1895ada-15e4-4f98-aa0d-597a4092c845)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-
 ## 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
@@ -50,7 +41,7 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 
 ## 🔧 Project Workflow
 
-Here’s a step-by-step breakdown of what we do in this project:
+Here’s a step-by-step breakdown of what I did in this project:
 
 ### 1. Database & Table Creation
 We start by creating a SQL table with appropriate data types:
@@ -115,55 +106,3 @@ CREATE TABLE zepto (
 - Grouped products based on weight into Low, Medium, and Bulk categories
 
 - Measured total inventory weight per product category
-
-
-## 🛠️ How to Use This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
-   cd zepto-SQL-data-analysis-project
-   ```
-2. **Open zepto_SQL_data_analysis.sql**
-
-    This file contains:
-
-      - Table creation
-
-      - Data exploration
-
-      - Data cleaning
-
-      - SQL Business analysis
-  
-3. **Load the dataset into pgAdmin or any other PostgreSQL client**
-
-      - Create a database and run the SQL file
-
-      - Import the dataset (convert to UTF-8 if necessary)
-
-4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty — a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join the Data Drool Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: [Data Drool](https://www.youtube.com/@datadrool)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
-
